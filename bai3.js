@@ -1,0 +1,12 @@
+let so=prompt("Nhập số thứ 1")
+let so1=prompt("Nhập số thứ 2")
+let so2=prompt("Nhập số thứ 3")
+let so3=prompt("Nhập số thứ 4")
+let so4=prompt("Nhập số thứ 5")
+var numbers = [so1, so , so2 , so3 , so4]
+var maxInNumbers = Math.max.apply(Math, numbers)
+var minInNumbers = Math.min.apply(Math, numbers)
+var tong = Number(maxInNumbers) + Number(minInNumbers)
+var tich = Number(maxInNumbers) * Number(minInNumbers)
+console.log ('Tổng là '+ tong)
+console.log('Tích là ' + tich)
