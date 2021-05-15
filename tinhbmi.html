@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="tinhbmi.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>CHỈ SỐ BMR</h1>
+    <h3>Sử dụng công cụ tính chỉ số nhu cầu calo hàng ngày dựa trên chiều cao , cân nặng , tuổi và mức độ hoạt động của bạn </h3>
+    <div id="khung">
+        <img id="anh"
+        src="hinh-anh-hoat-hinh-cute.jpg">
+        <img id="anh1"
+        src="hinh-anh-hoat-hinh-cute (1).jpg">
+    </div>
+    <div id="khung2">
+        <input id="ochon1" name="ochon" type="radio" value="nu"> Nữ 
+        <input id="ochon2" name="ochon" type="radio" value="nam"> Nam 
+    </div>
+    <div id="khung3">
+        <p>Chiều cao <input id="chieucao" type="number" placeholder="" ></p>
+        <p>Số tuổi <input id="sotuoi" type="number" placeholder="" ></p>
+        <p>Cân nặng <input id="cannang" type="number" placeholder="" ></p>  
+        <p id="bmr"></p>
+        <button id="nutbam" onclick="bam()">Calculate</button>
+    </div>
+    
+    <script src='./tinhbmi.js'></script>
+    
+</body>
+</html>
