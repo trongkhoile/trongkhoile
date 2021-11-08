@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2 style="color:red;">I'm Ray- A web developer</h2>
 <img src="https://i.pinimg.com/originals/54/f0/38/54f038b8664e1ab29b659d0e0d7aef23.gif">
 <h3>Knowledge</h3>
