@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **trongkhoile/trongkhoile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 style="color:red;">I'm Ray- A web developer</h2>
+
+<h2 style="back-groundcolor:red;">I'm Ray- A web developer</h2>
 <img src="https://i.pinimg.com/originals/54/f0/38/54f038b8664e1ab29b659d0e0d7aef23.gif">
 <h3>Knowledge</h3>
