@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F7411F&size=30&lines=I'm+Ray+-+Web+Developer)](https://git.io/typing-svg)
 ![](https://komarev.com/ghpvc/?username=trongkhoile)
 
-<img src="https://i.pinimg.com/originals/54/f0/38/54f038b8664e1ab29b659d0e0d7aef23.gif">
+<img src="https://giffiles.alphacoders.com/199/199436.gif">
 <br><br>
 
 ## Knowledge ✨
