@@ -21,7 +21,7 @@
 <br>
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-<img src="https://suvamrox.gallerycdn.vsassets.io/extensions/suvamrox/w3css/0.0.3/1612183597795/Microsoft.VisualStudio.Services.Icons.Default" style="width:50px">
+<img src="https://www.w3schools.com/cssref/w3css.gif" style="width:50px">
 
 
 ## Text Editor 💥
