@@ -24,14 +24,7 @@
 <img src="https://www.w3schools.com/cssref/w3css.gif" style="width:50px">
 
 
-## Text Editor 💥
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<br>
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-<br>
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-<br><br>
 
 
 ## Want to learn 📕
@@ -54,6 +47,4 @@
 
 
 
-## Chill 🎸 
 
-![Sound Cloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)
